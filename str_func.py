@@ -1,11 +1,11 @@
 def upper_case(string):
     """
-    Make upper-case letters
+    Make upper-case letters!
     """
     return string.upper()
 
 def capitalize_func(string):
     """
-    Capitalize sentence
+    Capitalize sentence!
     """
     return string.capitalize()
